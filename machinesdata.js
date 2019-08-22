@@ -1,0 +1,21 @@
+module.exports=
+{
+Datadriven:
+{
+ mData:
+{
+	firstname:"hello1",
+	lastname:"helo2",
+	email:"send121",
+	capacity:"34"
+},
+ mData1:
+{
+	machineproducer:"st23",
+	model:"LU4ffsdssaas",
+	serialnumber:"345",
+	capacity:"34"
+}
+
+}
+}
