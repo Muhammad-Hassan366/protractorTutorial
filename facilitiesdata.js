@@ -3,17 +3,19 @@ module.exports=
 {
 Datadriven:
 {
-secondData:
+	sData:
 	{
-		facilityaddress:"street#2123",
-		facilityexcisenumber:"LU14322222222232323"
+		facilityaddress:"sdsdsd",
+		facilityexcisenumber:"Lu"
+		
 	},
- FirstData:
-{
-	facilityaddress:"street#2123",
-	facilityexcisenumber:"LU1"
-},
-
+	negdata:
+	{
+		facilityaddress:"",
+		facilityexcisenumber:"Lu"
+	}
+	
+ 
 
 
 
